@@ -13,10 +13,14 @@ Un pequeño vistazo
 - __git branch -d <nombre_rama>__ : borrar rama
     * Eliminar de remoto git push origin <nombre_rama>
 
-- __git checkout -b <nombre_rama>__ : crea rama y cambia
+- __git checkout -b <nombre_rama>__ : crea rama y cambia a esa rama
 
 - __git diff <hash1> <hash2>__: cambios de un commit a otro.
 
 - __git log --graph__ : aŕbol del proyecto
 
 - __git commit --amend__  o __git commit --amend -m <mensaje>__ : Corregir commit en repo local
+
+- __git tag <tag> <hash>__ : Agregar tag al commit
+
+- __git tag -d <tag>__ : Quitar tag al commit
