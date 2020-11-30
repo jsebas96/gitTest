@@ -4,14 +4,14 @@ Un pequeño vistazo
 
 ## Comandos básicos
 
-- git checkout : cambiar de commit o rama
+- __git checkout__ : cambiar de commit o rama
 
-- git branch : indica la rama en la que se trabaja
+- __git branch__ : indica la rama en la que se trabaja
 
-- git branch <nombre_rama> : crea nueva rama 
+- __git branch <nombre_rama>__ : crea nueva rama 
 
 
-- git branch -d <nombre_rama> : borrar rama
+- __git branch -d <nombre_rama>__ : borrar rama
     * Eliminar de remoto git push origin <nombre_rama>
 
-- git checkout -b <nombre_rama> : crea rama y cambia
+- __git checkout -b <nombre_rama>__ : crea rama y cambia
