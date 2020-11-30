@@ -18,3 +18,5 @@ Un pequeño vistazo
 - __git diff <hash1> <hash2>__: cambios de un commit a otro.
 
 - __git log --graph__ : aŕbol del proyecto
+
+- __git commit --amend__  o __git commit --amend -m <mensaje>__ : Corregir commit en repo local
