@@ -25,6 +25,6 @@ Un pequeño vistazo
 
 - __git tag -d <tag>__ : Quitar tag al commit
 
-- __git pull origin <nombre_rama> : traer cambios de repo remoto a repo local
+- __git pull origin <nombre_rama>__ : traer cambios de repo remoto a repo local
 
 - __git blame <archivo>__ : quien ha hecho los cambios y en que momento
